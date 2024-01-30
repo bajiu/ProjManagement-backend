@@ -1,0 +1,61 @@
+# 依赖项 #
+/node_modules
+
+# 日志 #
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 运行时数据 #
+/pids
+*.pid
+*.seed
+*.pid.lock
+
+# 目录上传时生成的Mac文件 #
+.DS_Store
+
+# 生产环境配置文件 #
+.env.production
+
+# 打包目录 #
+/dist
+
+# IDE/编辑器相关 #
+/.idea
+/.vscode
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# 缓存 #
+/cache
+
+# 操作系统相关 #
+Thumbs.db
+Desktop.ini
+
+# 其他 #
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+# dotenv 环境变量文件 #
+.env
+.env.test
+
+# Debug 日志 #
+debug.log
+
+# 临时文件 #
+*.tmp
+*.temp
+*.swp
+
+/uploads
